@@ -14,7 +14,7 @@ function App() {
         heading="Cities"
         onSelectItem={handleSelectItem}
       />
-      <Alert>Alert Message</Alert>
+      <Alert>Khatarnaak Message</Alert>
     </div>
   );
 }
